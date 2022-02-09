@@ -172,7 +172,8 @@ const ServiceInfo = () => {
                                             display: "flex",
                                             alignItems: "end",
                                             gridGap: "20px",
-                                            position:"relative"
+                                            position:"relative",
+                                            marginTop: "auto"
                                         }}>
                                             <MouseRoundedIcon sx={{
                                                 backgroundColor: "rgb(0 0 0 / 8%)",

@@ -13,7 +13,7 @@ const HomePage = () => {
         gridGap: "1px",
         position: 'relative',
         height: {
-          md:"300px",lg:"600px"
+          md:"500px",lg:"700px"
         }
     }}>
       {
